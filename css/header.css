@@ -1,0 +1,17 @@
+.navbar{
+    background-color:rgb(5, 31, 145)!important;
+}
+.navbar-collapse{
+    flex-grow: 0!important;
+}
+.navbar-brand{
+    color: whitesmoke!important;
+    font-size: x-large;
+}
+
+a{
+    color: whitesmoke!important;
+    padding-left: 2px;
+    font-size:medium;
+    font-weight: 500;
+}
