@@ -1,0 +1,32 @@
+table { 
+	width: min-content;  
+	margin:50px auto;
+	background-color: rgba(236, 235, 245, 0.959);
+	}
+thead{ 
+	background-color: #243ed1; 
+	color: white; 
+	font-weight: bold; 
+	}
+
+td { 
+	padding: 10px; 
+	text-align: left; 
+	font-size: 18px;
+	}
+body{
+	height:fit-content;
+	width: 100%;
+	background-image: linear-gradient(180deg,#63aff7d3,#8328fba4);
+	margin: 0;
+	padding: 0;
+	background-repeat: no-repeat;
+  }
+#sin
+{
+	width:25px;
+}
+button{
+	color: whitesmoke!important;
+	font-weight: bold;
+}

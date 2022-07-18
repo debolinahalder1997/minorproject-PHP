@@ -1,0 +1,21 @@
+.navbar{
+    background-color:rgb(5, 31, 145)!important;
+}
+ .navbar-collapse{
+    flex-grow:0!important;
+} 
+
+.my{
+    color:white!important;
+    padding-left: 2px;
+    font-size:medium;
+    font-weight: 500;
+}
+#lefti{
+    padding-right: 10px;
+    margin-right: 30px;
+    font-size: large;
+} 
+li{
+    padding-right: 10px;
+}
